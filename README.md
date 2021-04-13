@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guffy95
-- 👀 I’m interested in programming, cars and lot od more :)
+- 👀 I’m interested in programming, cars and lot of more :)
 - 🌱 I’m currently learning basic Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
